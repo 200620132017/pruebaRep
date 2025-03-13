@@ -19,6 +19,7 @@ public class Date {
   private final int day;
   private final int month;
   private final int year;
+  private final int hour;
 
   public void methodAddedByOwner(){
     System.out.println("Method added by the owner");
